@@ -23,14 +23,14 @@ Rules:
 * Only one reward will be given per vulnerability.
 
 This statement is valid until superseded. The latest statement can always be
-found on https://gtklocker.com/bounty.
+found on https://gtklocker.com/bounty.txt.
 -----BEGIN PGP SIGNATURE-----
 
-iQEcBAEBCAAGBQJVH9eSAAoJEN/XrOdtm5G6VSoIAJxxVpd6wQlohNy/AL7ywl7+
-A3Rcr2tTyhgA3dYIR7x7+tw1q/yvyEuZ/sWzp/Btj62JQg+KkaKyoQ8VmGKVB9zo
-qk8JHjb9Fc2HoodiVQ4RA3CDXruPHPcQk/NueBteDnZHvY0pzPhplAeg8pjCQL2P
-9EjfBz3VSAhFIewcTngRzwfpqlZHu9Tuz4Wd6vF1rBNwc4EkWr5JEjw25bQPW9yM
-2zLZ2y0aIlECwj7UKdMcOAFPLEwdGBkny4pz8vFc5saYCRcG/KtkFNr15Tnajv8B
-h+6rIxDWKrOtRtnXAUVRanNaPdRypxXd+Wv3vYNCIzgr/ZjWRw7oC7QJIi4gbYY=
-=hekb
+iQEcBAEBCAAGBQJVH9iWAAoJEN/XrOdtm5G6gpUH/jRnerNguRyBtTcxLF4TCazt
+YbPP7vm7GBEfbtAThVAXIt43EON14xcEJB59Gs5mSOASJk+V0oBa6mP57hiSmB+J
+eZ+4VcqH4kQsogAtd2/ZQQY5mVRE+o0ArA+dqZXydW0pEIyZ2z27PoCHz1wTr+Cb
+pcpOHpLV/S9oVG+rcphKDdj8LYvawA4qYRpsGMmAPI9JLFGAAZIo4BvOa7uTC5i3
+Wy8oeoU/pnbNrAELh1gmJ4jlPjADnLUzbYNapgKWBKAmCZygc3i5mkYJxLiHW628
+gnDB75KSNmppdd1Zogx75Vvhn8IxYN0rkXOIc0UZgGGqDo1SpGepKPFwIRWshw8=
+=zCXr
 -----END PGP SIGNATURE-----
