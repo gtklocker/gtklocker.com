@@ -10,7 +10,7 @@ I invite you to find the file and share its contents with me. If you have found
 it, a reward of 20€ will be given to you in BTC.
 
 Furthermore, I invite you to post a message from my Facebook account in the
-form of "Bounty claimed by by @Your Name". The reward in that case is 5€.
+form of "Bounty claimed by @Your Name". The reward in that case is 5€.
 
 Rules:
 * Full disclosure required.
@@ -26,11 +26,11 @@ This statement is valid until superseded. The latest statement can always be
 found on https://gtklocker.com/bounty.txt.
 -----BEGIN PGP SIGNATURE-----
 
-iQEcBAEBCAAGBQJVH9iWAAoJEN/XrOdtm5G6gpUH/jRnerNguRyBtTcxLF4TCazt
-YbPP7vm7GBEfbtAThVAXIt43EON14xcEJB59Gs5mSOASJk+V0oBa6mP57hiSmB+J
-eZ+4VcqH4kQsogAtd2/ZQQY5mVRE+o0ArA+dqZXydW0pEIyZ2z27PoCHz1wTr+Cb
-pcpOHpLV/S9oVG+rcphKDdj8LYvawA4qYRpsGMmAPI9JLFGAAZIo4BvOa7uTC5i3
-Wy8oeoU/pnbNrAELh1gmJ4jlPjADnLUzbYNapgKWBKAmCZygc3i5mkYJxLiHW628
-gnDB75KSNmppdd1Zogx75Vvhn8IxYN0rkXOIc0UZgGGqDo1SpGepKPFwIRWshw8=
-=zCXr
+iQEcBAEBCAAGBQJVH9jkAAoJEN/XrOdtm5G6oYYH/iOxGZ+reOJGIS+ySd7AN8eF
+9QX6zVgBO9de0z5mAusxKf5+t9ECMpJKB94y8H4WC5Iz/mnUsHi3UTNXYKkkbVmM
+k7tBjBOsmV5JeWyeMGVGrJdGNZ1F3K4whb3FTAXQeYhjTQGKNlWc9wezN/Wop3d/
+X0uzIzTqPNQDawGnlD4qeodCa9xZsS4QQzTv2yaFve9+TqOXye7/IxqaZFZsSZj5
+fEBv7EaQTQz5GlGV9FVv0M3YRCs8uYuAOVJ8NhwRLLIUrQV8IR4hvoUEYCfagNtc
+OVhmeU96hTyQvRLx51PAW/HPSXd6P8MjUchM6bs0NOgHPDEQvoCkolXXsc2yl5A=
+=K/pW
 -----END PGP SIGNATURE-----
