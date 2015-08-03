@@ -1,5 +1,5 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 I wish to improve my security practices.
 
@@ -7,7 +7,7 @@ In that direction, I have placed a bounty on finding a file, ~/.bounty, on my
 development machine, schwarz (a Macbook).
 
 I invite you to find the file and share its contents with me. If you have found
-it, a reward of 20€ will be given to you in BTC.
+it, a reward of 50€ will be given to you in BTC.
 
 Furthermore, I invite you to post a message from my Facebook account in the
 form of "Bounty claimed by @Your Name". The reward in that case is 5€.
@@ -25,12 +25,13 @@ Rules:
 This statement is valid until superseded. The latest statement can always be
 found on https://gtklocker.com/bounty.txt.
 -----BEGIN PGP SIGNATURE-----
+Comment: GPGTools - https://gpgtools.org
 
-iQEcBAEBCAAGBQJVH9jkAAoJEN/XrOdtm5G6oYYH/iOxGZ+reOJGIS+ySd7AN8eF
-9QX6zVgBO9de0z5mAusxKf5+t9ECMpJKB94y8H4WC5Iz/mnUsHi3UTNXYKkkbVmM
-k7tBjBOsmV5JeWyeMGVGrJdGNZ1F3K4whb3FTAXQeYhjTQGKNlWc9wezN/Wop3d/
-X0uzIzTqPNQDawGnlD4qeodCa9xZsS4QQzTv2yaFve9+TqOXye7/IxqaZFZsSZj5
-fEBv7EaQTQz5GlGV9FVv0M3YRCs8uYuAOVJ8NhwRLLIUrQV8IR4hvoUEYCfagNtc
-OVhmeU96hTyQvRLx51PAW/HPSXd6P8MjUchM6bs0NOgHPDEQvoCkolXXsc2yl5A=
-=K/pW
+iQEcBAEBCgAGBQJVv3AGAAoJEN/XrOdtm5G6gZwH/it7fBbmUUI38T7MlcAerZ4j
+ClXpN1I48K1roU5DQ0Wudij9GnpdzmWDdBBk9GcMs+x6OJfeWuviJBZ9rrFVRmY+
+DCNTVNowENoxJC6KKpBctvSHqvJrjakhvD7ghE1ddVDWocpUOB5K7LkXtO3ewfLT
+ienh33QerJwKYslioMRLyKaqJLUqCDdt1WFjXrUoK3tl2kchFys7HfKFiUdWVaAm
+Cc9HheasyK4DNIIDM+A1lksj6OJM9s3VHFO1wdUIV0ObJ2y9jNqeWcSu01UFbJDI
+9uIh7IejBgyHm2rsRiqy7ZpvGdl5gnVcqvN32pxEL2v6Nnsgbc8IDK9GCAaFrBY=
+=rhJj
 -----END PGP SIGNATURE-----
