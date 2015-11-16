@@ -222,11 +222,8 @@ a:last-child {
 }
 
 header.animated {
-  -webkit-animation-delay: 0.5s;
-}
-p.meta.animated {
-  -webkit-animation-delay: 1s;
+  -webkit-animation-delay: 0.3s;
 }
 p.contact.animated {
-  -webkit-animation-delay: 1.5s;
+  -webkit-animation-delay: 0.6s;
 }
