@@ -1,54 +1,23 @@
-<!DOCTYPE html>
-<!--
-  Hello, internet traveller. Thanks for looking at this source.
-  This is a modified version of the Animate.css website: http://daneden.github.io/animate.css/
+---
+layout: default
+---
 
-  If you're Daniel Eden, thanks for making this amazing thing dude!
--->
-<html lang="en">
-<head>
-  <title>Kostis Karantias</title>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="initial-scale=1, minimal-ui" />
+<div class="home">
 
-  <link rel="dns-prefetch" href="//fonts.googleapis.com" />
-  <link rel="dns-prefetch" href="//code.jquery.com" />
+  <h1 class="page-heading">Posts</h1>
 
-  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,400italic,700italic,700' rel='stylesheet' type='text/css'>
-  <link href='//fonts.googleapis.com/css?family=Raleway:400,700,600' rel='stylesheet' type='text/css'>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-  <link rel="stylesheet" href="css/animate.css" />
-  <link rel="stylesheet" href="css/style.css" />
-</head>
-<body class="animated fadeInDown">
-<header class="site__header island animated fadeInDown">
-  <div class="wrap">
-   <span id="animationSandbox" style="display: block;">
-     <span class="beta subhead">Hey, I'm</span>
-     <h1 class="site__title mega">Kostis Karantias</h1>
-   </span>
-    <span class="beta subhead">and I do software.</span>
-  </div>
-</header>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-<main class="site__content island" role="content">
-  <div class="wrap">
-    <hr />
-    <p class="contact animated fadeInDown">
-      <small>
-        <a href="https://twitter.com/gtklocker">Twitter</a>
-        <a href="https://www.facebook.com/gtklocker">Facebook</a>
-        <a href="https://github.com/gtklocker">Github</a>
-        <a href="mailto:karantiaskostis@gmail.com">Email</a>
-        <a href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xDFD7ACE76D9B91BA">GPG</a>
-        <a href="https://gtklocker.com/otr.txt">OTR</a>
-        <a href="https://gtklocker.com/bounty.txt">Hack me!</a>
-      </small>
-    </p>
-  </div>
-</main>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-<script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
-
-</body>
-</html>
+</div>
